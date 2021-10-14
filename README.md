@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Marco
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Machine Learining and Robust Optimisation
+- 📫 How to reach me: University of Cagliari - Italy --> email: marco.galici@unica.it
