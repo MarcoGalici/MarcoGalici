@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Marco
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Machine Learining and Robust Optimisation
+- 🌱 I’m currently learning Machine Learining, Robust Optimisation and Blockchain. All these topics are wonderful, especially when applied to Power System.
 - 📫 How to reach me: University of Cagliari - Italy --> email: marco.galici@unica.it
+- 📫 How to reach me: https://www.linkedin.com/in/marco-galici-493069190/
